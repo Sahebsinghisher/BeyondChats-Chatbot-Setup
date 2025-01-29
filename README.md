@@ -4,7 +4,7 @@ You can explore the live version of the project at: https://f374-120-138-102-198
 How to Run Locally
 1) Clone the repository:
 - bash
-$git clone https://github.com/yourusername/beyondchats-chatbot-setup.git
+$git clone https://github.com/Sahebsinghisher/BeyondChats-Chatbot-Setup.git
 
 2) Install dependencies:
 $npm install
