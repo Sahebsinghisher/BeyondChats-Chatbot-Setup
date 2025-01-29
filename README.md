@@ -12,11 +12,29 @@ $cd BeyondChats-Chatbot-Setup
 3) Install dependencies:
 $npm install
 
-4) Run the application:
+4)Folder Structure Requirement:
+-Ensure that the following folders exist:
+a) /src: This folder should contain all your React components and JavaScript files. (i.e css and js file)
+b) /public: This folder should contain your static assets such as index.html and images. (i.e html file)
+If these folders are missing, please create them and add the necessary files.
+
+5) Run the application:
 - sql
 $npm start
 
-5) Open your browser and visit http://localhost:3000 to view the app locally.
+6) Open your browser and visit http://localhost:3000 to view the app locally.
+
+#)Folder Structure
+- css
+/BeyondChats-Chatbot-Setup
+├── /public
+│   └── index.html  (The main HTML file)
+│   └── [other static files]
+├── /src
+│   └── index.js    (The main JavaScript entry point)
+│   └── App.js      (The main App component)
+│   └── [other React components and logic]
+└── [other project files]
 
 xxxxxxxxxx
 
