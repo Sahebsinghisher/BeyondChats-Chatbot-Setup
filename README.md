@@ -6,14 +6,17 @@ How to Run Locally
 - bash
 $git clone https://github.com/Sahebsinghisher/BeyondChats-Chatbot-Setup.git
 
-2) Install dependencies:
+2) Change the directory:
+$cd BeyondChats-Chatbot-Setup
+
+3) Install dependencies:
 $npm install
 
-3) Run the application:
+4) Run the application:
 - sql
 $npm start
 
-6) Open your browser and visit http://localhost:3000 to view the app locally.
+5) Open your browser and visit http://localhost:3000 to view the app locally.
 
 xxxxxxxxxx
 
